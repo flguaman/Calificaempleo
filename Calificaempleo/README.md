@@ -1,7 +1,7 @@
-# 📊 Calificaempleo - Encuesta de Estrés y Trato Laboral
+# 📊 Calificaempleo.ec - Encuesta de Estrés y Trato Laboral
 
 ## 🌐 Descripción General
-**Empleo.ec** es una aplicación web diseñada para evaluar el nivel de estrés laboral y las condiciones de empleo entre trabajadores de empresas públicas y privadas en Ecuador. Su objetivo principal es proporcionar datos relevantes al **Ministerio de Trabajo**, que podrán ser utilizados para desarrollar políticas laborales efectivas y fomentar el bienestar de los trabajadores.
+**Calificaempleo.ec** es una aplicación web diseñada para evaluar el nivel de estrés laboral y las condiciones de empleo entre trabajadores de empresas públicas y privadas en Ecuador. Su objetivo principal es proporcionar datos relevantes al **Ministerio de Trabajo**, que podrán ser utilizados para desarrollar políticas laborales efectivas y fomentar el bienestar de los trabajadores.
 
 ## 🔑 Funcionalidades Clave
 
